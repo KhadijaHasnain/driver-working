@@ -1,0 +1,1971 @@
+Format of output
+key:  value  ->  retrievedValue , collisions number Collisions
+Linear total number Collisions
+Quadratic total number Collisions
+Double hashing total number Collisions
+
+*** Random Order Start *** 
+
+
+1768 : 3536 -> 3536, collisions 0
+1768 : 3536 -> 3536, collisions 0
+1768 : 3536 -> 3536, collisions 0
+
+3834 : 7668 -> 7668, collisions 0
+3834 : 7668 -> 7668, collisions 0
+3834 : 7668 -> 7668, collisions 0
+
+8729 : 17458 -> 17458, collisions 0
+8729 : 17458 -> 17458, collisions 0
+8729 : 17458 -> 17458, collisions 0
+
+7465 : 14930 -> 14930, collisions 2
+7465 : 14930 -> 14930, collisions 0
+7465 : 14930 -> 14930, collisions 2
+
+3878 : 7756 -> 7756, collisions 0
+3878 : 7756 -> 7756, collisions 0
+3878 : 7756 -> 7756, collisions 0
+
+2013 : 4026 -> 4026, collisions 0
+2013 : 4026 -> 4026, collisions 0
+2013 : 4026 -> 4026, collisions 0
+
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+
+2648 : 5296 -> 5296, collisions 0
+2648 : 5296 -> 5296, collisions 0
+2648 : 5296 -> 5296, collisions 0
+
+9885 : 19770 -> 19770, collisions 0
+9885 : 19770 -> 19770, collisions 0
+9885 : 19770 -> 19770, collisions 0
+
+7010 : 14020 -> 14020, collisions 0
+7010 : 14020 -> 14020, collisions 0
+7010 : 14020 -> 14020, collisions 0
+
+8385 : 16770 -> 16770, collisions 0
+8385 : 16770 -> 16770, collisions 0
+8385 : 16770 -> 16770, collisions 0
+
+531 : 1062 -> 1062, collisions 0
+531 : 1062 -> 1062, collisions 0
+531 : 1062 -> 1062, collisions 0
+
+3769 : 7538 -> 7538, collisions 0
+3769 : 7538 -> 7538, collisions 0
+3769 : 7538 -> 7538, collisions 0
+
+3127 : 6254 -> 6254, collisions 0
+3127 : 6254 -> 6254, collisions 0
+3127 : 6254 -> 6254, collisions 0
+
+8079 : 16158 -> 16158, collisions 0
+8079 : 16158 -> 16158, collisions 0
+8079 : 16158 -> 16158, collisions 0
+
+6971 : 13942 -> 13942, collisions 2
+6971 : 13942 -> 13942, collisions 0
+6971 : 13942 -> 13942, collisions 4
+
+2055 : 4110 -> 4110, collisions 0
+2055 : 4110 -> 4110, collisions 0
+2055 : 4110 -> 4110, collisions 0
+
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+
+4005 : 8010 -> 8010, collisions 0
+4005 : 8010 -> 8010, collisions 0
+4005 : 8010 -> 8010, collisions 0
+
+2145 : 4290 -> 4290, collisions 0
+2145 : 4290 -> 4290, collisions 0
+2145 : 4290 -> 4290, collisions 0
+
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+
+3875 : 7750 -> 7750, collisions 0
+3875 : 7750 -> 7750, collisions 0
+3875 : 7750 -> 7750, collisions 0
+
+3365 : 6730 -> 6730, collisions 0
+3365 : 6730 -> 6730, collisions 0
+3365 : 6730 -> 6730, collisions 0
+
+9226 : 18452 -> 18452, collisions 0
+9226 : 18452 -> 18452, collisions 0
+9226 : 18452 -> 18452, collisions 0
+
+7906 : 15812 -> 15812, collisions 2
+7906 : 15812 -> 15812, collisions 0
+7906 : 15812 -> 15812, collisions 2
+
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+
+3850 : 7700 -> 7700, collisions 2
+3850 : 7700 -> 7700, collisions 2
+3850 : 7700 -> 7700, collisions 4
+
+9250 : 18500 -> 18500, collisions 0
+9250 : 18500 -> 18500, collisions 0
+9250 : 18500 -> 18500, collisions 0
+
+8121 : 16242 -> 16242, collisions 2
+8121 : 16242 -> 16242, collisions 2
+8121 : 16242 -> 16242, collisions 8
+
+8555 : 17110 -> 17110, collisions 0
+8555 : 17110 -> 17110, collisions 0
+8555 : 17110 -> 17110, collisions 0
+
+2826 : 5652 -> 5652, collisions 4
+2826 : 5652 -> 5652, collisions 4
+2826 : 5652 -> 5652, collisions 6
+
+1478 : 2956 -> 2956, collisions 2
+1478 : 2956 -> 2956, collisions 0
+1478 : 2956 -> 2956, collisions 4
+
+2321 : 4642 -> 4642, collisions 0
+2321 : 4642 -> 4642, collisions 2
+2321 : 4642 -> 4642, collisions 0
+
+7810 : 15620 -> 15620, collisions 0
+7810 : 15620 -> 15620, collisions 0
+7810 : 15620 -> 15620, collisions 0
+
+8191 : 16382 -> 16382, collisions 0
+8191 : 16382 -> 16382, collisions 0
+8191 : 16382 -> 16382, collisions 0
+
+985 : 1970 -> 1970, collisions 0
+985 : 1970 -> 1970, collisions 0
+985 : 1970 -> 1970, collisions 0
+
+8007 : 16014 -> 16014, collisions 0
+8007 : 16014 -> 16014, collisions 0
+8007 : 16014 -> 16014, collisions 0
+
+1493 : 2986 -> 2986, collisions 0
+1493 : 2986 -> 2986, collisions 0
+1493 : 2986 -> 2986, collisions 0
+
+1390 : 2780 -> 2780, collisions 0
+1390 : 2780 -> 2780, collisions 0
+1390 : 2780 -> 2780, collisions 0
+
+9713 : 19426 -> 19426, collisions 0
+9713 : 19426 -> 19426, collisions 0
+9713 : 19426 -> 19426, collisions 0
+
+9171 : 18342 -> 18342, collisions 0
+9171 : 18342 -> 18342, collisions 0
+9171 : 18342 -> 18342, collisions 0
+
+4643 : 9286 -> 9286, collisions 8
+4643 : 9286 -> 9286, collisions 6
+4643 : 9286 -> 9286, collisions 4
+
+7393 : 14786 -> 14786, collisions 12
+7393 : 14786 -> 14786, collisions 0
+7393 : 14786 -> 14786, collisions 4
+
+1213 : 2426 -> 2426, collisions 0
+1213 : 2426 -> 2426, collisions 0
+1213 : 2426 -> 2426, collisions 0
+
+137 : 274 -> 274, collisions 0
+137 : 274 -> 274, collisions 0
+137 : 274 -> 274, collisions 0
+
+3539 : 7078 -> 7078, collisions 2
+3539 : 7078 -> 7078, collisions 2
+3539 : 7078 -> 7078, collisions 4
+
+6360 : 12720 -> 12720, collisions 4
+6360 : 12720 -> 12720, collisions 10
+6360 : 12720 -> 12720, collisions 4
+
+9925 : 19850 -> 19850, collisions 0
+9925 : 19850 -> 19850, collisions 2
+9925 : 19850 -> 19850, collisions 0
+
+4941 : 9882 -> 9882, collisions 0
+4941 : 9882 -> 9882, collisions 0
+4941 : 9882 -> 9882, collisions 0
+
+9241 : 18482 -> 18482, collisions 6
+9241 : 18482 -> 18482, collisions 2
+9241 : 18482 -> 18482, collisions 4
+
+6737 : 13474 -> 13474, collisions 0
+6737 : 13474 -> 13474, collisions 0
+6737 : 13474 -> 13474, collisions 0
+
+5806 : 11612 -> 11612, collisions 0
+5806 : 11612 -> 11612, collisions 0
+5806 : 11612 -> 11612, collisions 0
+
+3608 : 7216 -> 7216, collisions 0
+3608 : 7216 -> 7216, collisions 2
+3608 : 7216 -> 7216, collisions 0
+
+6928 : 13856 -> 13856, collisions 0
+6928 : 13856 -> 13856, collisions 4
+6928 : 13856 -> 13856, collisions 0
+
+6050 : 12100 -> 12100, collisions 0
+6050 : 12100 -> 12100, collisions 0
+6050 : 12100 -> 12100, collisions 0
+
+1019 : 2038 -> 2038, collisions 2
+1019 : 2038 -> 2038, collisions 0
+1019 : 2038 -> 2038, collisions 0
+
+3139 : 6278 -> 6278, collisions 0
+3139 : 6278 -> 6278, collisions 0
+3139 : 6278 -> 6278, collisions 0
+
+2752 : 5504 -> 5504, collisions 0
+2752 : 5504 -> 5504, collisions 4
+2752 : 5504 -> 5504, collisions 0
+
+8621 : 17242 -> 17242, collisions 0
+8621 : 17242 -> 17242, collisions 0
+8621 : 17242 -> 17242, collisions 0
+
+6690 : 13380 -> 13380, collisions 18
+6690 : 13380 -> 13380, collisions 2
+6690 : 13380 -> 13380, collisions 6
+
+1869 : 3738 -> 3738, collisions 2
+1869 : 3738 -> 3738, collisions 2
+1869 : 3738 -> 3738, collisions 4
+
+8686 : 17372 -> 17372, collisions 0
+8686 : 17372 -> 17372, collisions 0
+8686 : 17372 -> 17372, collisions 0
+
+1000 : 2000 -> 2000, collisions 6
+1000 : 2000 -> 2000, collisions 2
+1000 : 2000 -> 2000, collisions 6
+
+3685 : 7370 -> 7370, collisions 0
+3685 : 7370 -> 7370, collisions 0
+3685 : 7370 -> 7370, collisions 0
+
+466 : 932 -> 932, collisions 8
+466 : 932 -> 932, collisions 2
+466 : 932 -> 932, collisions 4
+
+2143 : 4286 -> 4286, collisions 0
+2143 : 4286 -> 4286, collisions 0
+2143 : 4286 -> 4286, collisions 0
+
+9767 : 19534 -> 19534, collisions 12
+9767 : 19534 -> 19534, collisions 0
+9767 : 19534 -> 19534, collisions 0
+
+3566 : 7132 -> 7132, collisions 2
+3566 : 7132 -> 7132, collisions 2
+3566 : 7132 -> 7132, collisions 4
+
+8929 : 17858 -> 17858, collisions 24
+8929 : 17858 -> 17858, collisions 2
+8929 : 17858 -> 17858, collisions 6
+
+1549 : 3098 -> 3098, collisions 0
+1549 : 3098 -> 3098, collisions 0
+1549 : 3098 -> 3098, collisions 0
+
+905 : 1810 -> 1810, collisions 2
+905 : 1810 -> 1810, collisions 2
+905 : 1810 -> 1810, collisions 6
+
+3725 : 7450 -> 7450, collisions 0
+3725 : 7450 -> 7450, collisions 0
+3725 : 7450 -> 7450, collisions 6
+
+8300 : 16600 -> 16600, collisions 0
+8300 : 16600 -> 16600, collisions 0
+8300 : 16600 -> 16600, collisions 0
+
+5950 : 11900 -> 11900, collisions 2
+5950 : 11900 -> 11900, collisions 0
+5950 : 11900 -> 11900, collisions 4
+
+5782 : 11564 -> 11564, collisions 0
+5782 : 11564 -> 11564, collisions 0
+5782 : 11564 -> 11564, collisions 0
+
+8478 : 16956 -> 16956, collisions 2
+8478 : 16956 -> 16956, collisions 8
+8478 : 16956 -> 16956, collisions 8
+
+7083 : 14166 -> 14166, collisions 0
+7083 : 14166 -> 14166, collisions 2
+7083 : 14166 -> 14166, collisions 4
+
+2904 : 5808 -> 5808, collisions 2
+2904 : 5808 -> 5808, collisions 2
+2904 : 5808 -> 5808, collisions 4
+
+8690 : 17380 -> 17380, collisions 0
+8690 : 17380 -> 17380, collisions 0
+8690 : 17380 -> 17380, collisions 0
+
+5232 : 10464 -> 10464, collisions 0
+5232 : 10464 -> 10464, collisions 0
+5232 : 10464 -> 10464, collisions 6
+
+974 : 1948 -> 1948, collisions 0
+974 : 1948 -> 1948, collisions 4
+974 : 1948 -> 1948, collisions 0
+
+6805 : 13610 -> 13610, collisions 0
+6805 : 13610 -> 13610, collisions 0
+6805 : 13610 -> 13610, collisions 0
+
+7602 : 15204 -> 15204, collisions 0
+7602 : 15204 -> 15204, collisions 0
+7602 : 15204 -> 15204, collisions 0
+
+634 : 1268 -> 1268, collisions 0
+634 : 1268 -> 1268, collisions 0
+634 : 1268 -> 1268, collisions 0
+
+8640 : 17280 -> 17280, collisions 4
+8640 : 17280 -> 17280, collisions 6
+8640 : 17280 -> 17280, collisions 10
+
+7204 : 14408 -> 14408, collisions 26
+7204 : 14408 -> 14408, collisions 4
+7204 : 14408 -> 14408, collisions 0
+
+1428 : 2856 -> 2856, collisions 0
+1428 : 2856 -> 2856, collisions 0
+1428 : 2856 -> 2856, collisions 0
+
+5112 : 10224 -> 10224, collisions 0
+5112 : 10224 -> 10224, collisions 2
+5112 : 10224 -> 10224, collisions 0
+
+2505 : 5010 -> 5010, collisions 8
+2505 : 5010 -> 5010, collisions 8
+2505 : 5010 -> 5010, collisions 6
+
+5056 : 10112 -> 10112, collisions 6
+5056 : 10112 -> 10112, collisions 8
+5056 : 10112 -> 10112, collisions 12
+
+5425 : 10850 -> 10850, collisions 6
+5425 : 10850 -> 10850, collisions 0
+5425 : 10850 -> 10850, collisions 8
+
+6662 : 13324 -> 13324, collisions 6
+6662 : 13324 -> 13324, collisions 4
+6662 : 13324 -> 13324, collisions 8
+
+1778 : 3556 -> 3556, collisions 4
+1778 : 3556 -> 3556, collisions 6
+1778 : 3556 -> 3556, collisions 4
+
+9659 : 19318 -> 19318, collisions 0
+9659 : 19318 -> 19318, collisions 6
+9659 : 19318 -> 19318, collisions 0
+
+5019 : 10038 -> 10038, collisions 0
+5019 : 10038 -> 10038, collisions 0
+5019 : 10038 -> 10038, collisions 0
+
+6026 : 12052 -> 12052, collisions 2
+6026 : 12052 -> 12052, collisions 0
+6026 : 12052 -> 12052, collisions 0
+
+1995 : 3990 -> 3990, collisions 12
+1995 : 3990 -> 3990, collisions 0
+1995 : 3990 -> 3990, collisions 0
+
+1999 : 3998 -> 3998, collisions 26
+1999 : 3998 -> 3998, collisions 0
+1999 : 3998 -> 3998, collisions 4
+
+1716 : 3432 -> 3432, collisions 0
+1716 : 3432 -> 3432, collisions 0
+1716 : 3432 -> 3432, collisions 0
+
+6318 : 12636 -> 12636, collisions 2
+6318 : 12636 -> 12636, collisions 4
+6318 : 12636 -> 12636, collisions 4
+
+4347 : 8694 -> 8694, collisions 10
+4347 : 8694 -> 8694, collisions 4
+4347 : 8694 -> 8694, collisions 4
+
+9146 : 18292 -> 18292, collisions 4
+9146 : 18292 -> 18292, collisions 6
+9146 : 18292 -> 18292, collisions 0
+
+2332 : 4664 -> 4664, collisions 8
+2332 : 4664 -> 4664, collisions 2
+2332 : 4664 -> 4664, collisions 0
+
+448 : 896 -> 896, collisions 8
+448 : 896 -> 896, collisions 10
+448 : 896 -> 896, collisions 14
+
+5061 : 10122 -> 10122, collisions 54
+5061 : 10122 -> 10122, collisions 6
+5061 : 10122 -> 10122, collisions 4
+
+6611 : 13222 -> 13222, collisions 68
+6611 : 13222 -> 13222, collisions 10
+6611 : 13222 -> 13222, collisions 10
+
+9051 : 18102 -> 18102, collisions 0
+9051 : 18102 -> 18102, collisions 0
+9051 : 18102 -> 18102, collisions 4
+
+3221 : 6442 -> 6442, collisions 4
+3221 : 6442 -> 6442, collisions 4
+3221 : 6442 -> 6442, collisions 6
+
+8685 : 17370 -> 17370, collisions 20
+8685 : 17370 -> 17370, collisions 6
+8685 : 17370 -> 17370, collisions 0
+
+8577 : 17154 -> 17154, collisions 0
+8577 : 17154 -> 17154, collisions 0
+8577 : 17154 -> 17154, collisions 4
+
+686 : 1372 -> 1372, collisions 4
+686 : 1372 -> 1372, collisions 10
+686 : 1372 -> 1372, collisions 10
+
+2176 : 4352 -> 4352, collisions 0
+2176 : 4352 -> 4352, collisions 0
+2176 : 4352 -> 4352, collisions 4
+
+7487 : 14974 -> 14974, collisions 6
+7487 : 14974 -> 14974, collisions 0
+7487 : 14974 -> 14974, collisions 8
+
+496 : 992 -> 992, collisions 18
+496 : 992 -> 992, collisions 2
+496 : 992 -> 992, collisions 4
+
+6089 : 12178 -> 12178, collisions 116
+6089 : 12178 -> 12178, collisions 10
+6089 : 12178 -> 12178, collisions 12
+
+418 : 836 -> 836, collisions 2
+418 : 836 -> 836, collisions 2
+418 : 836 -> 836, collisions 4
+
+4647 : 9294 -> 9294, collisions 60
+4647 : 9294 -> 9294, collisions 10
+4647 : 9294 -> 9294, collisions 10
+
+9069 : 18138 -> 18138, collisions 0
+9069 : 18138 -> 18138, collisions 0
+9069 : 18138 -> 18138, collisions 6
+
+3650 : 7300 -> 7300, collisions 8
+3650 : 7300 -> 7300, collisions 6
+3650 : 7300 -> 7300, collisions 4
+
+5289 : 10578 -> 10578, collisions 0
+5289 : 10578 -> 10578, collisions 2
+5289 : 10578 -> 10578, collisions 0
+
+9097 : 18194 -> 18194, collisions 6
+9097 : 18194 -> 18194, collisions 4
+9097 : 18194 -> 18194, collisions 10
+
+1349 : 2698 -> 2698, collisions 6
+1349 : 2698 -> 2698, collisions 2
+1349 : 2698 -> 2698, collisions 0
+
+5434 : 10868 -> 10868, collisions 30
+5434 : 10868 -> 10868, collisions 4
+5434 : 10868 -> 10868, collisions 0
+
+9055 : 18110 -> 18110, collisions 2
+9055 : 18110 -> 18110, collisions 2
+9055 : 18110 -> 18110, collisions 4
+
+7036 : 14072 -> 14072, collisions 0
+7036 : 14072 -> 14072, collisions 0
+7036 : 14072 -> 14072, collisions 0
+
+7696 : 15392 -> 15392, collisions 116
+7696 : 15392 -> 15392, collisions 8
+7696 : 15392 -> 15392, collisions 8
+
+8792 : 17584 -> 17584, collisions 4
+8792 : 17584 -> 17584, collisions 4
+8792 : 17584 -> 17584, collisions 12
+
+9639 : 19278 -> 19278, collisions 0
+9639 : 19278 -> 19278, collisions 0
+9639 : 19278 -> 19278, collisions 0
+
+8481 : 16962 -> 16962, collisions 84
+8481 : 16962 -> 16962, collisions 12
+8481 : 16962 -> 16962, collisions 0
+
+303 : 606 -> 606, collisions 58
+303 : 606 -> 606, collisions 2
+303 : 606 -> 606, collisions 16
+
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+
+297 : 594 -> 594, collisions 76
+297 : 594 -> 594, collisions 14
+297 : 594 -> 594, collisions 6
+
+7311 : 14622 -> 14622, collisions 2
+7311 : 14622 -> 14622, collisions 2
+7311 : 14622 -> 14622, collisions 10
+
+9916 : 19832 -> 19832, collisions 4
+9916 : 19832 -> 19832, collisions 6
+9916 : 19832 -> 19832, collisions 4
+
+3422 : 6844 -> 6844, collisions 0
+3422 : 6844 -> 6844, collisions 2
+3422 : 6844 -> 6844, collisions 10
+
+9651 : 19302 -> 19302, collisions 0
+9651 : 19302 -> 19302, collisions 0
+9651 : 19302 -> 19302, collisions 0
+
+9246 : 18492 -> 18492, collisions 100
+9246 : 18492 -> 18492, collisions 18
+9246 : 18492 -> 18492, collisions 12
+
+740 : 1480 -> 1480, collisions 90
+740 : 1480 -> 1480, collisions 22
+740 : 1480 -> 1480, collisions 4
+
+4185 : 8370 -> 8370, collisions 6
+4185 : 8370 -> 8370, collisions 0
+4185 : 8370 -> 8370, collisions 0
+
+1165 : 2330 -> 2330, collisions 2
+1165 : 2330 -> 2330, collisions 2
+1165 : 2330 -> 2330, collisions 12
+
+9503 : 19006 -> 19006, collisions 104
+9503 : 19006 -> 19006, collisions 12
+9503 : 19006 -> 19006, collisions 0
+
+1377 : 2754 -> 2754, collisions 4
+1377 : 2754 -> 2754, collisions 2
+1377 : 2754 -> 2754, collisions 4
+
+1583 : 3166 -> 3166, collisions 74
+1583 : 3166 -> 3166, collisions 32
+1583 : 3166 -> 3166, collisions 22
+
+5351 : 10702 -> 10702, collisions 90
+5351 : 10702 -> 10702, collisions 10
+5351 : 10702 -> 10702, collisions 0
+
+5937 : 11874 -> 11874, collisions 74
+5937 : 11874 -> 11874, collisions 2
+5937 : 11874 -> 11874, collisions 20
+
+111 : 222 -> 222, collisions 0
+111 : 222 -> 222, collisions 0
+111 : 222 -> 222, collisions 18
+
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+
+5373 : 10746 -> 10746, collisions 50
+5373 : 10746 -> 10746, collisions 14
+5373 : 10746 -> 10746, collisions 8
+
+2908 : 5816 -> 5816, collisions 2
+2908 : 5816 -> 5816, collisions 6
+2908 : 5816 -> 5816, collisions 0
+
+6627 : 13254 -> 13254, collisions 128
+6627 : 13254 -> 13254, collisions 12
+6627 : 13254 -> 13254, collisions 4
+
+4809 : 9618 -> 9618, collisions 184
+4809 : 9618 -> 9618, collisions 12
+4809 : 9618 -> 9618, collisions 14
+
+4857 : 9714 -> 9714, collisions 90
+4857 : 9714 -> 9714, collisions 6
+4857 : 9714 -> 9714, collisions 12
+
+9368 : 18736 -> 18736, collisions 0
+9368 : 18736 -> 18736, collisions 0
+9368 : 18736 -> 18736, collisions 0
+
+4876 : 9752 -> 9752, collisions 184
+4876 : 9752 -> 9752, collisions 6
+4876 : 9752 -> 9752, collisions 4
+
+5484 : 10968 -> 10968, collisions 10
+5484 : 10968 -> 10968, collisions 4
+5484 : 10968 -> 10968, collisions 16
+
+3129 : 6258 -> 6258, collisions 96
+3129 : 6258 -> 6258, collisions 18
+3129 : 6258 -> 6258, collisions 18
+
+9101 : 18202 -> 18202, collisions 8
+9101 : 18202 -> 18202, collisions 10
+9101 : 18202 -> 18202, collisions 22
+
+5932 : 11864 -> 11864, collisions 140
+5932 : 11864 -> 11864, collisions 8
+5932 : 11864 -> 11864, collisions 0
+
+3440 : 6880 -> 6880, collisions 6
+3440 : 6880 -> 6880, collisions 8
+3440 : 6880 -> 6880, collisions 10
+
+8056 : 16112 -> 16112, collisions 0
+8056 : 16112 -> 16112, collisions 4
+8056 : 16112 -> 16112, collisions 0
+
+Linear Probing 2452 Collisions
+Quadratic Probing 480 Collisions
+Double hashing Probing 562 Collisions
+
+*** Random Order End ***
+
+*** Accending Order Start ***
+
+Format of output
+key:  value  ->  retrievedValue , collisions number Collisions
+Linear total number Collisions
+Quadratic total number Collisions
+Double hashing total number Collisions
+
+*** Random Order Start *** 
+
+
+111 : 222 -> 222, collisions 0
+111 : 222 -> 222, collisions 0
+111 : 222 -> 222, collisions 18
+
+137 : 274 -> 274, collisions 0
+137 : 274 -> 274, collisions 0
+137 : 274 -> 274, collisions 0
+
+297 : 594 -> 594, collisions 76
+297 : 594 -> 594, collisions 14
+297 : 594 -> 594, collisions 6
+
+303 : 606 -> 606, collisions 58
+303 : 606 -> 606, collisions 2
+303 : 606 -> 606, collisions 16
+
+418 : 836 -> 836, collisions 2
+418 : 836 -> 836, collisions 2
+418 : 836 -> 836, collisions 4
+
+448 : 896 -> 896, collisions 8
+448 : 896 -> 896, collisions 10
+448 : 896 -> 896, collisions 14
+
+466 : 932 -> 932, collisions 8
+466 : 932 -> 932, collisions 2
+466 : 932 -> 932, collisions 4
+
+496 : 992 -> 992, collisions 18
+496 : 992 -> 992, collisions 2
+496 : 992 -> 992, collisions 4
+
+531 : 1062 -> 1062, collisions 0
+531 : 1062 -> 1062, collisions 0
+531 : 1062 -> 1062, collisions 0
+
+634 : 1268 -> 1268, collisions 0
+634 : 1268 -> 1268, collisions 0
+634 : 1268 -> 1268, collisions 0
+
+686 : 1372 -> 1372, collisions 4
+686 : 1372 -> 1372, collisions 10
+686 : 1372 -> 1372, collisions 10
+
+740 : 1480 -> 1480, collisions 90
+740 : 1480 -> 1480, collisions 22
+740 : 1480 -> 1480, collisions 4
+
+905 : 1810 -> 1810, collisions 2
+905 : 1810 -> 1810, collisions 2
+905 : 1810 -> 1810, collisions 6
+
+974 : 1948 -> 1948, collisions 0
+974 : 1948 -> 1948, collisions 4
+974 : 1948 -> 1948, collisions 0
+
+985 : 1970 -> 1970, collisions 0
+985 : 1970 -> 1970, collisions 0
+985 : 1970 -> 1970, collisions 0
+
+1000 : 2000 -> 2000, collisions 6
+1000 : 2000 -> 2000, collisions 2
+1000 : 2000 -> 2000, collisions 6
+
+1019 : 2038 -> 2038, collisions 2
+1019 : 2038 -> 2038, collisions 0
+1019 : 2038 -> 2038, collisions 0
+
+1165 : 2330 -> 2330, collisions 2
+1165 : 2330 -> 2330, collisions 2
+1165 : 2330 -> 2330, collisions 12
+
+1213 : 2426 -> 2426, collisions 0
+1213 : 2426 -> 2426, collisions 0
+1213 : 2426 -> 2426, collisions 0
+
+1349 : 2698 -> 2698, collisions 6
+1349 : 2698 -> 2698, collisions 2
+1349 : 2698 -> 2698, collisions 0
+
+1377 : 2754 -> 2754, collisions 4
+1377 : 2754 -> 2754, collisions 2
+1377 : 2754 -> 2754, collisions 4
+
+1390 : 2780 -> 2780, collisions 0
+1390 : 2780 -> 2780, collisions 0
+1390 : 2780 -> 2780, collisions 0
+
+1428 : 2856 -> 2856, collisions 0
+1428 : 2856 -> 2856, collisions 0
+1428 : 2856 -> 2856, collisions 0
+
+1478 : 2956 -> 2956, collisions 2
+1478 : 2956 -> 2956, collisions 0
+1478 : 2956 -> 2956, collisions 4
+
+1493 : 2986 -> 2986, collisions 0
+1493 : 2986 -> 2986, collisions 0
+1493 : 2986 -> 2986, collisions 0
+
+1549 : 3098 -> 3098, collisions 0
+1549 : 3098 -> 3098, collisions 0
+1549 : 3098 -> 3098, collisions 0
+
+1583 : 3166 -> 3166, collisions 74
+1583 : 3166 -> 3166, collisions 32
+1583 : 3166 -> 3166, collisions 22
+
+1716 : 3432 -> 3432, collisions 0
+1716 : 3432 -> 3432, collisions 0
+1716 : 3432 -> 3432, collisions 0
+
+1768 : 3536 -> 3536, collisions 0
+1768 : 3536 -> 3536, collisions 0
+1768 : 3536 -> 3536, collisions 0
+
+1778 : 3556 -> 3556, collisions 4
+1778 : 3556 -> 3556, collisions 6
+1778 : 3556 -> 3556, collisions 4
+
+1869 : 3738 -> 3738, collisions 2
+1869 : 3738 -> 3738, collisions 2
+1869 : 3738 -> 3738, collisions 4
+
+1995 : 3990 -> 3990, collisions 12
+1995 : 3990 -> 3990, collisions 0
+1995 : 3990 -> 3990, collisions 0
+
+1999 : 3998 -> 3998, collisions 26
+1999 : 3998 -> 3998, collisions 0
+1999 : 3998 -> 3998, collisions 4
+
+2013 : 4026 -> 4026, collisions 0
+2013 : 4026 -> 4026, collisions 0
+2013 : 4026 -> 4026, collisions 0
+
+2055 : 4110 -> 4110, collisions 0
+2055 : 4110 -> 4110, collisions 0
+2055 : 4110 -> 4110, collisions 0
+
+2143 : 4286 -> 4286, collisions 0
+2143 : 4286 -> 4286, collisions 0
+2143 : 4286 -> 4286, collisions 0
+
+2145 : 4290 -> 4290, collisions 0
+2145 : 4290 -> 4290, collisions 0
+2145 : 4290 -> 4290, collisions 0
+
+2176 : 4352 -> 4352, collisions 0
+2176 : 4352 -> 4352, collisions 0
+2176 : 4352 -> 4352, collisions 4
+
+2321 : 4642 -> 4642, collisions 0
+2321 : 4642 -> 4642, collisions 2
+2321 : 4642 -> 4642, collisions 0
+
+2332 : 4664 -> 4664, collisions 8
+2332 : 4664 -> 4664, collisions 2
+2332 : 4664 -> 4664, collisions 0
+
+2505 : 5010 -> 5010, collisions 8
+2505 : 5010 -> 5010, collisions 8
+2505 : 5010 -> 5010, collisions 6
+
+2648 : 5296 -> 5296, collisions 0
+2648 : 5296 -> 5296, collisions 0
+2648 : 5296 -> 5296, collisions 0
+
+2752 : 5504 -> 5504, collisions 0
+2752 : 5504 -> 5504, collisions 4
+2752 : 5504 -> 5504, collisions 0
+
+2826 : 5652 -> 5652, collisions 4
+2826 : 5652 -> 5652, collisions 4
+2826 : 5652 -> 5652, collisions 6
+
+2904 : 5808 -> 5808, collisions 2
+2904 : 5808 -> 5808, collisions 2
+2904 : 5808 -> 5808, collisions 4
+
+2908 : 5816 -> 5816, collisions 2
+2908 : 5816 -> 5816, collisions 6
+2908 : 5816 -> 5816, collisions 0
+
+3127 : 6254 -> 6254, collisions 0
+3127 : 6254 -> 6254, collisions 0
+3127 : 6254 -> 6254, collisions 0
+
+3129 : 6258 -> 6258, collisions 96
+3129 : 6258 -> 6258, collisions 18
+3129 : 6258 -> 6258, collisions 18
+
+3139 : 6278 -> 6278, collisions 0
+3139 : 6278 -> 6278, collisions 0
+3139 : 6278 -> 6278, collisions 0
+
+3221 : 6442 -> 6442, collisions 4
+3221 : 6442 -> 6442, collisions 4
+3221 : 6442 -> 6442, collisions 6
+
+3365 : 6730 -> 6730, collisions 0
+3365 : 6730 -> 6730, collisions 0
+3365 : 6730 -> 6730, collisions 0
+
+3422 : 6844 -> 6844, collisions 0
+3422 : 6844 -> 6844, collisions 2
+3422 : 6844 -> 6844, collisions 10
+
+3440 : 6880 -> 6880, collisions 6
+3440 : 6880 -> 6880, collisions 8
+3440 : 6880 -> 6880, collisions 10
+
+3539 : 7078 -> 7078, collisions 2
+3539 : 7078 -> 7078, collisions 2
+3539 : 7078 -> 7078, collisions 4
+
+3566 : 7132 -> 7132, collisions 2
+3566 : 7132 -> 7132, collisions 2
+3566 : 7132 -> 7132, collisions 4
+
+3608 : 7216 -> 7216, collisions 0
+3608 : 7216 -> 7216, collisions 2
+3608 : 7216 -> 7216, collisions 0
+
+3650 : 7300 -> 7300, collisions 8
+3650 : 7300 -> 7300, collisions 6
+3650 : 7300 -> 7300, collisions 4
+
+3685 : 7370 -> 7370, collisions 0
+3685 : 7370 -> 7370, collisions 0
+3685 : 7370 -> 7370, collisions 0
+
+3725 : 7450 -> 7450, collisions 0
+3725 : 7450 -> 7450, collisions 0
+3725 : 7450 -> 7450, collisions 6
+
+3769 : 7538 -> 7538, collisions 0
+3769 : 7538 -> 7538, collisions 0
+3769 : 7538 -> 7538, collisions 0
+
+3834 : 7668 -> 7668, collisions 0
+3834 : 7668 -> 7668, collisions 0
+3834 : 7668 -> 7668, collisions 0
+
+3850 : 7700 -> 7700, collisions 2
+3850 : 7700 -> 7700, collisions 2
+3850 : 7700 -> 7700, collisions 4
+
+3875 : 7750 -> 7750, collisions 0
+3875 : 7750 -> 7750, collisions 0
+3875 : 7750 -> 7750, collisions 0
+
+3878 : 7756 -> 7756, collisions 0
+3878 : 7756 -> 7756, collisions 0
+3878 : 7756 -> 7756, collisions 0
+
+4005 : 8010 -> 8010, collisions 0
+4005 : 8010 -> 8010, collisions 0
+4005 : 8010 -> 8010, collisions 0
+
+4185 : 8370 -> 8370, collisions 6
+4185 : 8370 -> 8370, collisions 0
+4185 : 8370 -> 8370, collisions 0
+
+4347 : 8694 -> 8694, collisions 10
+4347 : 8694 -> 8694, collisions 4
+4347 : 8694 -> 8694, collisions 4
+
+4643 : 9286 -> 9286, collisions 8
+4643 : 9286 -> 9286, collisions 6
+4643 : 9286 -> 9286, collisions 4
+
+4647 : 9294 -> 9294, collisions 60
+4647 : 9294 -> 9294, collisions 10
+4647 : 9294 -> 9294, collisions 10
+
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+
+4809 : 9618 -> 9618, collisions 184
+4809 : 9618 -> 9618, collisions 12
+4809 : 9618 -> 9618, collisions 14
+
+4857 : 9714 -> 9714, collisions 90
+4857 : 9714 -> 9714, collisions 6
+4857 : 9714 -> 9714, collisions 12
+
+4876 : 9752 -> 9752, collisions 184
+4876 : 9752 -> 9752, collisions 6
+4876 : 9752 -> 9752, collisions 4
+
+4941 : 9882 -> 9882, collisions 0
+4941 : 9882 -> 9882, collisions 0
+4941 : 9882 -> 9882, collisions 0
+
+5019 : 10038 -> 10038, collisions 0
+5019 : 10038 -> 10038, collisions 0
+5019 : 10038 -> 10038, collisions 0
+
+5056 : 10112 -> 10112, collisions 6
+5056 : 10112 -> 10112, collisions 8
+5056 : 10112 -> 10112, collisions 12
+
+5061 : 10122 -> 10122, collisions 54
+5061 : 10122 -> 10122, collisions 6
+5061 : 10122 -> 10122, collisions 4
+
+5112 : 10224 -> 10224, collisions 0
+5112 : 10224 -> 10224, collisions 2
+5112 : 10224 -> 10224, collisions 0
+
+5232 : 10464 -> 10464, collisions 0
+5232 : 10464 -> 10464, collisions 0
+5232 : 10464 -> 10464, collisions 6
+
+5289 : 10578 -> 10578, collisions 0
+5289 : 10578 -> 10578, collisions 2
+5289 : 10578 -> 10578, collisions 0
+
+5351 : 10702 -> 10702, collisions 90
+5351 : 10702 -> 10702, collisions 10
+5351 : 10702 -> 10702, collisions 0
+
+5373 : 10746 -> 10746, collisions 50
+5373 : 10746 -> 10746, collisions 14
+5373 : 10746 -> 10746, collisions 8
+
+5425 : 10850 -> 10850, collisions 6
+5425 : 10850 -> 10850, collisions 0
+5425 : 10850 -> 10850, collisions 8
+
+5434 : 10868 -> 10868, collisions 30
+5434 : 10868 -> 10868, collisions 4
+5434 : 10868 -> 10868, collisions 0
+
+5484 : 10968 -> 10968, collisions 10
+5484 : 10968 -> 10968, collisions 4
+5484 : 10968 -> 10968, collisions 16
+
+5782 : 11564 -> 11564, collisions 0
+5782 : 11564 -> 11564, collisions 0
+5782 : 11564 -> 11564, collisions 0
+
+5806 : 11612 -> 11612, collisions 0
+5806 : 11612 -> 11612, collisions 0
+5806 : 11612 -> 11612, collisions 0
+
+5932 : 11864 -> 11864, collisions 140
+5932 : 11864 -> 11864, collisions 8
+5932 : 11864 -> 11864, collisions 0
+
+5937 : 11874 -> 11874, collisions 74
+5937 : 11874 -> 11874, collisions 2
+5937 : 11874 -> 11874, collisions 20
+
+5950 : 11900 -> 11900, collisions 2
+5950 : 11900 -> 11900, collisions 0
+5950 : 11900 -> 11900, collisions 4
+
+6026 : 12052 -> 12052, collisions 2
+6026 : 12052 -> 12052, collisions 0
+6026 : 12052 -> 12052, collisions 0
+
+6050 : 12100 -> 12100, collisions 0
+6050 : 12100 -> 12100, collisions 0
+6050 : 12100 -> 12100, collisions 0
+
+6089 : 12178 -> 12178, collisions 116
+6089 : 12178 -> 12178, collisions 10
+6089 : 12178 -> 12178, collisions 12
+
+6318 : 12636 -> 12636, collisions 2
+6318 : 12636 -> 12636, collisions 4
+6318 : 12636 -> 12636, collisions 4
+
+6360 : 12720 -> 12720, collisions 4
+6360 : 12720 -> 12720, collisions 10
+6360 : 12720 -> 12720, collisions 4
+
+6611 : 13222 -> 13222, collisions 68
+6611 : 13222 -> 13222, collisions 10
+6611 : 13222 -> 13222, collisions 10
+
+6627 : 13254 -> 13254, collisions 128
+6627 : 13254 -> 13254, collisions 12
+6627 : 13254 -> 13254, collisions 4
+
+6662 : 13324 -> 13324, collisions 6
+6662 : 13324 -> 13324, collisions 4
+6662 : 13324 -> 13324, collisions 8
+
+6690 : 13380 -> 13380, collisions 18
+6690 : 13380 -> 13380, collisions 2
+6690 : 13380 -> 13380, collisions 6
+
+6737 : 13474 -> 13474, collisions 0
+6737 : 13474 -> 13474, collisions 0
+6737 : 13474 -> 13474, collisions 0
+
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+
+6805 : 13610 -> 13610, collisions 0
+6805 : 13610 -> 13610, collisions 0
+6805 : 13610 -> 13610, collisions 0
+
+6928 : 13856 -> 13856, collisions 0
+6928 : 13856 -> 13856, collisions 4
+6928 : 13856 -> 13856, collisions 0
+
+6971 : 13942 -> 13942, collisions 2
+6971 : 13942 -> 13942, collisions 0
+6971 : 13942 -> 13942, collisions 4
+
+7010 : 14020 -> 14020, collisions 0
+7010 : 14020 -> 14020, collisions 0
+7010 : 14020 -> 14020, collisions 0
+
+7036 : 14072 -> 14072, collisions 0
+7036 : 14072 -> 14072, collisions 0
+7036 : 14072 -> 14072, collisions 0
+
+7083 : 14166 -> 14166, collisions 0
+7083 : 14166 -> 14166, collisions 2
+7083 : 14166 -> 14166, collisions 4
+
+7204 : 14408 -> 14408, collisions 26
+7204 : 14408 -> 14408, collisions 4
+7204 : 14408 -> 14408, collisions 0
+
+7311 : 14622 -> 14622, collisions 2
+7311 : 14622 -> 14622, collisions 2
+7311 : 14622 -> 14622, collisions 10
+
+7393 : 14786 -> 14786, collisions 12
+7393 : 14786 -> 14786, collisions 0
+7393 : 14786 -> 14786, collisions 4
+
+7465 : 14930 -> 14930, collisions 2
+7465 : 14930 -> 14930, collisions 0
+7465 : 14930 -> 14930, collisions 2
+
+7487 : 14974 -> 14974, collisions 6
+7487 : 14974 -> 14974, collisions 0
+7487 : 14974 -> 14974, collisions 8
+
+7602 : 15204 -> 15204, collisions 0
+7602 : 15204 -> 15204, collisions 0
+7602 : 15204 -> 15204, collisions 0
+
+7696 : 15392 -> 15392, collisions 116
+7696 : 15392 -> 15392, collisions 8
+7696 : 15392 -> 15392, collisions 8
+
+7810 : 15620 -> 15620, collisions 0
+7810 : 15620 -> 15620, collisions 0
+7810 : 15620 -> 15620, collisions 0
+
+7906 : 15812 -> 15812, collisions 2
+7906 : 15812 -> 15812, collisions 0
+7906 : 15812 -> 15812, collisions 2
+
+8007 : 16014 -> 16014, collisions 0
+8007 : 16014 -> 16014, collisions 0
+8007 : 16014 -> 16014, collisions 0
+
+8056 : 16112 -> 16112, collisions 0
+8056 : 16112 -> 16112, collisions 4
+8056 : 16112 -> 16112, collisions 0
+
+8079 : 16158 -> 16158, collisions 0
+8079 : 16158 -> 16158, collisions 0
+8079 : 16158 -> 16158, collisions 0
+
+8121 : 16242 -> 16242, collisions 2
+8121 : 16242 -> 16242, collisions 2
+8121 : 16242 -> 16242, collisions 8
+
+8191 : 16382 -> 16382, collisions 0
+8191 : 16382 -> 16382, collisions 0
+8191 : 16382 -> 16382, collisions 0
+
+8300 : 16600 -> 16600, collisions 0
+8300 : 16600 -> 16600, collisions 0
+8300 : 16600 -> 16600, collisions 0
+
+8385 : 16770 -> 16770, collisions 0
+8385 : 16770 -> 16770, collisions 0
+8385 : 16770 -> 16770, collisions 0
+
+8478 : 16956 -> 16956, collisions 2
+8478 : 16956 -> 16956, collisions 8
+8478 : 16956 -> 16956, collisions 8
+
+8481 : 16962 -> 16962, collisions 84
+8481 : 16962 -> 16962, collisions 12
+8481 : 16962 -> 16962, collisions 0
+
+8555 : 17110 -> 17110, collisions 0
+8555 : 17110 -> 17110, collisions 0
+8555 : 17110 -> 17110, collisions 0
+
+8577 : 17154 -> 17154, collisions 0
+8577 : 17154 -> 17154, collisions 0
+8577 : 17154 -> 17154, collisions 4
+
+8621 : 17242 -> 17242, collisions 0
+8621 : 17242 -> 17242, collisions 0
+8621 : 17242 -> 17242, collisions 0
+
+8640 : 17280 -> 17280, collisions 4
+8640 : 17280 -> 17280, collisions 6
+8640 : 17280 -> 17280, collisions 10
+
+8685 : 17370 -> 17370, collisions 20
+8685 : 17370 -> 17370, collisions 6
+8685 : 17370 -> 17370, collisions 0
+
+8686 : 17372 -> 17372, collisions 0
+8686 : 17372 -> 17372, collisions 0
+8686 : 17372 -> 17372, collisions 0
+
+8690 : 17380 -> 17380, collisions 0
+8690 : 17380 -> 17380, collisions 0
+8690 : 17380 -> 17380, collisions 0
+
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+
+8729 : 17458 -> 17458, collisions 0
+8729 : 17458 -> 17458, collisions 0
+8729 : 17458 -> 17458, collisions 0
+
+8792 : 17584 -> 17584, collisions 4
+8792 : 17584 -> 17584, collisions 4
+8792 : 17584 -> 17584, collisions 12
+
+8929 : 17858 -> 17858, collisions 24
+8929 : 17858 -> 17858, collisions 2
+8929 : 17858 -> 17858, collisions 6
+
+9051 : 18102 -> 18102, collisions 0
+9051 : 18102 -> 18102, collisions 0
+9051 : 18102 -> 18102, collisions 4
+
+9055 : 18110 -> 18110, collisions 2
+9055 : 18110 -> 18110, collisions 2
+9055 : 18110 -> 18110, collisions 4
+
+9069 : 18138 -> 18138, collisions 0
+9069 : 18138 -> 18138, collisions 0
+9069 : 18138 -> 18138, collisions 6
+
+9097 : 18194 -> 18194, collisions 6
+9097 : 18194 -> 18194, collisions 4
+9097 : 18194 -> 18194, collisions 10
+
+9101 : 18202 -> 18202, collisions 8
+9101 : 18202 -> 18202, collisions 10
+9101 : 18202 -> 18202, collisions 22
+
+9146 : 18292 -> 18292, collisions 4
+9146 : 18292 -> 18292, collisions 6
+9146 : 18292 -> 18292, collisions 0
+
+9171 : 18342 -> 18342, collisions 0
+9171 : 18342 -> 18342, collisions 0
+9171 : 18342 -> 18342, collisions 0
+
+9226 : 18452 -> 18452, collisions 0
+9226 : 18452 -> 18452, collisions 0
+9226 : 18452 -> 18452, collisions 0
+
+9241 : 18482 -> 18482, collisions 6
+9241 : 18482 -> 18482, collisions 2
+9241 : 18482 -> 18482, collisions 4
+
+9246 : 18492 -> 18492, collisions 100
+9246 : 18492 -> 18492, collisions 18
+9246 : 18492 -> 18492, collisions 12
+
+9250 : 18500 -> 18500, collisions 0
+9250 : 18500 -> 18500, collisions 0
+9250 : 18500 -> 18500, collisions 0
+
+9368 : 18736 -> 18736, collisions 0
+9368 : 18736 -> 18736, collisions 0
+9368 : 18736 -> 18736, collisions 0
+
+9503 : 19006 -> 19006, collisions 104
+9503 : 19006 -> 19006, collisions 12
+9503 : 19006 -> 19006, collisions 0
+
+9639 : 19278 -> 19278, collisions 0
+9639 : 19278 -> 19278, collisions 0
+9639 : 19278 -> 19278, collisions 0
+
+9651 : 19302 -> 19302, collisions 0
+9651 : 19302 -> 19302, collisions 0
+9651 : 19302 -> 19302, collisions 0
+
+9659 : 19318 -> 19318, collisions 0
+9659 : 19318 -> 19318, collisions 6
+9659 : 19318 -> 19318, collisions 0
+
+9713 : 19426 -> 19426, collisions 0
+9713 : 19426 -> 19426, collisions 0
+9713 : 19426 -> 19426, collisions 0
+
+9767 : 19534 -> 19534, collisions 12
+9767 : 19534 -> 19534, collisions 0
+9767 : 19534 -> 19534, collisions 0
+
+9885 : 19770 -> 19770, collisions 0
+9885 : 19770 -> 19770, collisions 0
+9885 : 19770 -> 19770, collisions 0
+
+9916 : 19832 -> 19832, collisions 4
+9916 : 19832 -> 19832, collisions 6
+9916 : 19832 -> 19832, collisions 4
+
+9925 : 19850 -> 19850, collisions 0
+9925 : 19850 -> 19850, collisions 2
+9925 : 19850 -> 19850, collisions 0
+
+Linear Probing 4904 Collisions
+Quadratic Probing 960 Collisions
+Double hashing Probing 1124 Collisions
+
+*** Random Order End ***
+
+*** Accending Order Start ***
+
+Format of output
+key:  value  ->  retrievedValue , collisions number Collisions
+Linear total number Collisions
+Quadratic total number Collisions
+Double hashing total number Collisions
+
+*** Random Order Start *** 
+
+
+9925 : 19850 -> 19850, collisions 0
+9925 : 19850 -> 19850, collisions 2
+9925 : 19850 -> 19850, collisions 0
+
+9916 : 19832 -> 19832, collisions 4
+9916 : 19832 -> 19832, collisions 6
+9916 : 19832 -> 19832, collisions 4
+
+9885 : 19770 -> 19770, collisions 0
+9885 : 19770 -> 19770, collisions 0
+9885 : 19770 -> 19770, collisions 0
+
+9767 : 19534 -> 19534, collisions 12
+9767 : 19534 -> 19534, collisions 0
+9767 : 19534 -> 19534, collisions 0
+
+9713 : 19426 -> 19426, collisions 0
+9713 : 19426 -> 19426, collisions 0
+9713 : 19426 -> 19426, collisions 0
+
+9659 : 19318 -> 19318, collisions 0
+9659 : 19318 -> 19318, collisions 6
+9659 : 19318 -> 19318, collisions 0
+
+9651 : 19302 -> 19302, collisions 0
+9651 : 19302 -> 19302, collisions 0
+9651 : 19302 -> 19302, collisions 0
+
+9639 : 19278 -> 19278, collisions 0
+9639 : 19278 -> 19278, collisions 0
+9639 : 19278 -> 19278, collisions 0
+
+9503 : 19006 -> 19006, collisions 104
+9503 : 19006 -> 19006, collisions 12
+9503 : 19006 -> 19006, collisions 0
+
+9368 : 18736 -> 18736, collisions 0
+9368 : 18736 -> 18736, collisions 0
+9368 : 18736 -> 18736, collisions 0
+
+9250 : 18500 -> 18500, collisions 0
+9250 : 18500 -> 18500, collisions 0
+9250 : 18500 -> 18500, collisions 0
+
+9246 : 18492 -> 18492, collisions 100
+9246 : 18492 -> 18492, collisions 18
+9246 : 18492 -> 18492, collisions 12
+
+9241 : 18482 -> 18482, collisions 6
+9241 : 18482 -> 18482, collisions 2
+9241 : 18482 -> 18482, collisions 4
+
+9226 : 18452 -> 18452, collisions 0
+9226 : 18452 -> 18452, collisions 0
+9226 : 18452 -> 18452, collisions 0
+
+9171 : 18342 -> 18342, collisions 0
+9171 : 18342 -> 18342, collisions 0
+9171 : 18342 -> 18342, collisions 0
+
+9146 : 18292 -> 18292, collisions 4
+9146 : 18292 -> 18292, collisions 6
+9146 : 18292 -> 18292, collisions 0
+
+9101 : 18202 -> 18202, collisions 8
+9101 : 18202 -> 18202, collisions 10
+9101 : 18202 -> 18202, collisions 22
+
+9097 : 18194 -> 18194, collisions 6
+9097 : 18194 -> 18194, collisions 4
+9097 : 18194 -> 18194, collisions 10
+
+9069 : 18138 -> 18138, collisions 0
+9069 : 18138 -> 18138, collisions 0
+9069 : 18138 -> 18138, collisions 6
+
+9055 : 18110 -> 18110, collisions 2
+9055 : 18110 -> 18110, collisions 2
+9055 : 18110 -> 18110, collisions 4
+
+9051 : 18102 -> 18102, collisions 0
+9051 : 18102 -> 18102, collisions 0
+9051 : 18102 -> 18102, collisions 4
+
+8929 : 17858 -> 17858, collisions 24
+8929 : 17858 -> 17858, collisions 2
+8929 : 17858 -> 17858, collisions 6
+
+8792 : 17584 -> 17584, collisions 4
+8792 : 17584 -> 17584, collisions 4
+8792 : 17584 -> 17584, collisions 12
+
+8729 : 17458 -> 17458, collisions 0
+8729 : 17458 -> 17458, collisions 0
+8729 : 17458 -> 17458, collisions 0
+
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+8701 : 17402 -> 17402, collisions 0
+
+8690 : 17380 -> 17380, collisions 0
+8690 : 17380 -> 17380, collisions 0
+8690 : 17380 -> 17380, collisions 0
+
+8686 : 17372 -> 17372, collisions 0
+8686 : 17372 -> 17372, collisions 0
+8686 : 17372 -> 17372, collisions 0
+
+8685 : 17370 -> 17370, collisions 20
+8685 : 17370 -> 17370, collisions 6
+8685 : 17370 -> 17370, collisions 0
+
+8640 : 17280 -> 17280, collisions 4
+8640 : 17280 -> 17280, collisions 6
+8640 : 17280 -> 17280, collisions 10
+
+8621 : 17242 -> 17242, collisions 0
+8621 : 17242 -> 17242, collisions 0
+8621 : 17242 -> 17242, collisions 0
+
+8577 : 17154 -> 17154, collisions 0
+8577 : 17154 -> 17154, collisions 0
+8577 : 17154 -> 17154, collisions 4
+
+8555 : 17110 -> 17110, collisions 0
+8555 : 17110 -> 17110, collisions 0
+8555 : 17110 -> 17110, collisions 0
+
+8481 : 16962 -> 16962, collisions 84
+8481 : 16962 -> 16962, collisions 12
+8481 : 16962 -> 16962, collisions 0
+
+8478 : 16956 -> 16956, collisions 2
+8478 : 16956 -> 16956, collisions 8
+8478 : 16956 -> 16956, collisions 8
+
+8385 : 16770 -> 16770, collisions 0
+8385 : 16770 -> 16770, collisions 0
+8385 : 16770 -> 16770, collisions 0
+
+8300 : 16600 -> 16600, collisions 0
+8300 : 16600 -> 16600, collisions 0
+8300 : 16600 -> 16600, collisions 0
+
+8191 : 16382 -> 16382, collisions 0
+8191 : 16382 -> 16382, collisions 0
+8191 : 16382 -> 16382, collisions 0
+
+8121 : 16242 -> 16242, collisions 2
+8121 : 16242 -> 16242, collisions 2
+8121 : 16242 -> 16242, collisions 8
+
+8079 : 16158 -> 16158, collisions 0
+8079 : 16158 -> 16158, collisions 0
+8079 : 16158 -> 16158, collisions 0
+
+8056 : 16112 -> 16112, collisions 0
+8056 : 16112 -> 16112, collisions 4
+8056 : 16112 -> 16112, collisions 0
+
+8007 : 16014 -> 16014, collisions 0
+8007 : 16014 -> 16014, collisions 0
+8007 : 16014 -> 16014, collisions 0
+
+7906 : 15812 -> 15812, collisions 2
+7906 : 15812 -> 15812, collisions 0
+7906 : 15812 -> 15812, collisions 2
+
+7810 : 15620 -> 15620, collisions 0
+7810 : 15620 -> 15620, collisions 0
+7810 : 15620 -> 15620, collisions 0
+
+7696 : 15392 -> 15392, collisions 116
+7696 : 15392 -> 15392, collisions 8
+7696 : 15392 -> 15392, collisions 8
+
+7602 : 15204 -> 15204, collisions 0
+7602 : 15204 -> 15204, collisions 0
+7602 : 15204 -> 15204, collisions 0
+
+7487 : 14974 -> 14974, collisions 6
+7487 : 14974 -> 14974, collisions 0
+7487 : 14974 -> 14974, collisions 8
+
+7465 : 14930 -> 14930, collisions 2
+7465 : 14930 -> 14930, collisions 0
+7465 : 14930 -> 14930, collisions 2
+
+7393 : 14786 -> 14786, collisions 12
+7393 : 14786 -> 14786, collisions 0
+7393 : 14786 -> 14786, collisions 4
+
+7311 : 14622 -> 14622, collisions 2
+7311 : 14622 -> 14622, collisions 2
+7311 : 14622 -> 14622, collisions 10
+
+7204 : 14408 -> 14408, collisions 26
+7204 : 14408 -> 14408, collisions 4
+7204 : 14408 -> 14408, collisions 0
+
+7083 : 14166 -> 14166, collisions 0
+7083 : 14166 -> 14166, collisions 2
+7083 : 14166 -> 14166, collisions 4
+
+7036 : 14072 -> 14072, collisions 0
+7036 : 14072 -> 14072, collisions 0
+7036 : 14072 -> 14072, collisions 0
+
+7010 : 14020 -> 14020, collisions 0
+7010 : 14020 -> 14020, collisions 0
+7010 : 14020 -> 14020, collisions 0
+
+6971 : 13942 -> 13942, collisions 2
+6971 : 13942 -> 13942, collisions 0
+6971 : 13942 -> 13942, collisions 4
+
+6928 : 13856 -> 13856, collisions 0
+6928 : 13856 -> 13856, collisions 4
+6928 : 13856 -> 13856, collisions 0
+
+6805 : 13610 -> 13610, collisions 0
+6805 : 13610 -> 13610, collisions 0
+6805 : 13610 -> 13610, collisions 0
+
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+6762 : 13524 -> 13524, collisions 0
+
+6737 : 13474 -> 13474, collisions 0
+6737 : 13474 -> 13474, collisions 0
+6737 : 13474 -> 13474, collisions 0
+
+6690 : 13380 -> 13380, collisions 18
+6690 : 13380 -> 13380, collisions 2
+6690 : 13380 -> 13380, collisions 6
+
+6662 : 13324 -> 13324, collisions 6
+6662 : 13324 -> 13324, collisions 4
+6662 : 13324 -> 13324, collisions 8
+
+6627 : 13254 -> 13254, collisions 128
+6627 : 13254 -> 13254, collisions 12
+6627 : 13254 -> 13254, collisions 4
+
+6611 : 13222 -> 13222, collisions 68
+6611 : 13222 -> 13222, collisions 10
+6611 : 13222 -> 13222, collisions 10
+
+6360 : 12720 -> 12720, collisions 4
+6360 : 12720 -> 12720, collisions 10
+6360 : 12720 -> 12720, collisions 4
+
+6318 : 12636 -> 12636, collisions 2
+6318 : 12636 -> 12636, collisions 4
+6318 : 12636 -> 12636, collisions 4
+
+6089 : 12178 -> 12178, collisions 116
+6089 : 12178 -> 12178, collisions 10
+6089 : 12178 -> 12178, collisions 12
+
+6050 : 12100 -> 12100, collisions 0
+6050 : 12100 -> 12100, collisions 0
+6050 : 12100 -> 12100, collisions 0
+
+6026 : 12052 -> 12052, collisions 2
+6026 : 12052 -> 12052, collisions 0
+6026 : 12052 -> 12052, collisions 0
+
+5950 : 11900 -> 11900, collisions 2
+5950 : 11900 -> 11900, collisions 0
+5950 : 11900 -> 11900, collisions 4
+
+5937 : 11874 -> 11874, collisions 74
+5937 : 11874 -> 11874, collisions 2
+5937 : 11874 -> 11874, collisions 20
+
+5932 : 11864 -> 11864, collisions 140
+5932 : 11864 -> 11864, collisions 8
+5932 : 11864 -> 11864, collisions 0
+
+5806 : 11612 -> 11612, collisions 0
+5806 : 11612 -> 11612, collisions 0
+5806 : 11612 -> 11612, collisions 0
+
+5782 : 11564 -> 11564, collisions 0
+5782 : 11564 -> 11564, collisions 0
+5782 : 11564 -> 11564, collisions 0
+
+5484 : 10968 -> 10968, collisions 10
+5484 : 10968 -> 10968, collisions 4
+5484 : 10968 -> 10968, collisions 16
+
+5434 : 10868 -> 10868, collisions 30
+5434 : 10868 -> 10868, collisions 4
+5434 : 10868 -> 10868, collisions 0
+
+5425 : 10850 -> 10850, collisions 6
+5425 : 10850 -> 10850, collisions 0
+5425 : 10850 -> 10850, collisions 8
+
+5373 : 10746 -> 10746, collisions 50
+5373 : 10746 -> 10746, collisions 14
+5373 : 10746 -> 10746, collisions 8
+
+5351 : 10702 -> 10702, collisions 90
+5351 : 10702 -> 10702, collisions 10
+5351 : 10702 -> 10702, collisions 0
+
+5289 : 10578 -> 10578, collisions 0
+5289 : 10578 -> 10578, collisions 2
+5289 : 10578 -> 10578, collisions 0
+
+5232 : 10464 -> 10464, collisions 0
+5232 : 10464 -> 10464, collisions 0
+5232 : 10464 -> 10464, collisions 6
+
+5112 : 10224 -> 10224, collisions 0
+5112 : 10224 -> 10224, collisions 2
+5112 : 10224 -> 10224, collisions 0
+
+5061 : 10122 -> 10122, collisions 54
+5061 : 10122 -> 10122, collisions 6
+5061 : 10122 -> 10122, collisions 4
+
+5056 : 10112 -> 10112, collisions 6
+5056 : 10112 -> 10112, collisions 8
+5056 : 10112 -> 10112, collisions 12
+
+5019 : 10038 -> 10038, collisions 0
+5019 : 10038 -> 10038, collisions 0
+5019 : 10038 -> 10038, collisions 0
+
+4941 : 9882 -> 9882, collisions 0
+4941 : 9882 -> 9882, collisions 0
+4941 : 9882 -> 9882, collisions 0
+
+4876 : 9752 -> 9752, collisions 184
+4876 : 9752 -> 9752, collisions 6
+4876 : 9752 -> 9752, collisions 4
+
+4857 : 9714 -> 9714, collisions 90
+4857 : 9714 -> 9714, collisions 6
+4857 : 9714 -> 9714, collisions 12
+
+4809 : 9618 -> 9618, collisions 184
+4809 : 9618 -> 9618, collisions 12
+4809 : 9618 -> 9618, collisions 14
+
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+4768 : 9536 -> 9536, collisions 0
+
+4647 : 9294 -> 9294, collisions 60
+4647 : 9294 -> 9294, collisions 10
+4647 : 9294 -> 9294, collisions 10
+
+4643 : 9286 -> 9286, collisions 8
+4643 : 9286 -> 9286, collisions 6
+4643 : 9286 -> 9286, collisions 4
+
+4347 : 8694 -> 8694, collisions 10
+4347 : 8694 -> 8694, collisions 4
+4347 : 8694 -> 8694, collisions 4
+
+4185 : 8370 -> 8370, collisions 6
+4185 : 8370 -> 8370, collisions 0
+4185 : 8370 -> 8370, collisions 0
+
+4005 : 8010 -> 8010, collisions 0
+4005 : 8010 -> 8010, collisions 0
+4005 : 8010 -> 8010, collisions 0
+
+3878 : 7756 -> 7756, collisions 0
+3878 : 7756 -> 7756, collisions 0
+3878 : 7756 -> 7756, collisions 0
+
+3875 : 7750 -> 7750, collisions 0
+3875 : 7750 -> 7750, collisions 0
+3875 : 7750 -> 7750, collisions 0
+
+3850 : 7700 -> 7700, collisions 2
+3850 : 7700 -> 7700, collisions 2
+3850 : 7700 -> 7700, collisions 4
+
+3834 : 7668 -> 7668, collisions 0
+3834 : 7668 -> 7668, collisions 0
+3834 : 7668 -> 7668, collisions 0
+
+3769 : 7538 -> 7538, collisions 0
+3769 : 7538 -> 7538, collisions 0
+3769 : 7538 -> 7538, collisions 0
+
+3725 : 7450 -> 7450, collisions 0
+3725 : 7450 -> 7450, collisions 0
+3725 : 7450 -> 7450, collisions 6
+
+3685 : 7370 -> 7370, collisions 0
+3685 : 7370 -> 7370, collisions 0
+3685 : 7370 -> 7370, collisions 0
+
+3650 : 7300 -> 7300, collisions 8
+3650 : 7300 -> 7300, collisions 6
+3650 : 7300 -> 7300, collisions 4
+
+3608 : 7216 -> 7216, collisions 0
+3608 : 7216 -> 7216, collisions 2
+3608 : 7216 -> 7216, collisions 0
+
+3566 : 7132 -> 7132, collisions 2
+3566 : 7132 -> 7132, collisions 2
+3566 : 7132 -> 7132, collisions 4
+
+3539 : 7078 -> 7078, collisions 2
+3539 : 7078 -> 7078, collisions 2
+3539 : 7078 -> 7078, collisions 4
+
+3440 : 6880 -> 6880, collisions 6
+3440 : 6880 -> 6880, collisions 8
+3440 : 6880 -> 6880, collisions 10
+
+3422 : 6844 -> 6844, collisions 0
+3422 : 6844 -> 6844, collisions 2
+3422 : 6844 -> 6844, collisions 10
+
+3365 : 6730 -> 6730, collisions 0
+3365 : 6730 -> 6730, collisions 0
+3365 : 6730 -> 6730, collisions 0
+
+3221 : 6442 -> 6442, collisions 4
+3221 : 6442 -> 6442, collisions 4
+3221 : 6442 -> 6442, collisions 6
+
+3139 : 6278 -> 6278, collisions 0
+3139 : 6278 -> 6278, collisions 0
+3139 : 6278 -> 6278, collisions 0
+
+3129 : 6258 -> 6258, collisions 96
+3129 : 6258 -> 6258, collisions 18
+3129 : 6258 -> 6258, collisions 18
+
+3127 : 6254 -> 6254, collisions 0
+3127 : 6254 -> 6254, collisions 0
+3127 : 6254 -> 6254, collisions 0
+
+2908 : 5816 -> 5816, collisions 2
+2908 : 5816 -> 5816, collisions 6
+2908 : 5816 -> 5816, collisions 0
+
+2904 : 5808 -> 5808, collisions 2
+2904 : 5808 -> 5808, collisions 2
+2904 : 5808 -> 5808, collisions 4
+
+2826 : 5652 -> 5652, collisions 4
+2826 : 5652 -> 5652, collisions 4
+2826 : 5652 -> 5652, collisions 6
+
+2752 : 5504 -> 5504, collisions 0
+2752 : 5504 -> 5504, collisions 4
+2752 : 5504 -> 5504, collisions 0
+
+2648 : 5296 -> 5296, collisions 0
+2648 : 5296 -> 5296, collisions 0
+2648 : 5296 -> 5296, collisions 0
+
+2505 : 5010 -> 5010, collisions 8
+2505 : 5010 -> 5010, collisions 8
+2505 : 5010 -> 5010, collisions 6
+
+2332 : 4664 -> 4664, collisions 8
+2332 : 4664 -> 4664, collisions 2
+2332 : 4664 -> 4664, collisions 0
+
+2321 : 4642 -> 4642, collisions 0
+2321 : 4642 -> 4642, collisions 2
+2321 : 4642 -> 4642, collisions 0
+
+2176 : 4352 -> 4352, collisions 0
+2176 : 4352 -> 4352, collisions 0
+2176 : 4352 -> 4352, collisions 4
+
+2145 : 4290 -> 4290, collisions 0
+2145 : 4290 -> 4290, collisions 0
+2145 : 4290 -> 4290, collisions 0
+
+2143 : 4286 -> 4286, collisions 0
+2143 : 4286 -> 4286, collisions 0
+2143 : 4286 -> 4286, collisions 0
+
+2055 : 4110 -> 4110, collisions 0
+2055 : 4110 -> 4110, collisions 0
+2055 : 4110 -> 4110, collisions 0
+
+2013 : 4026 -> 4026, collisions 0
+2013 : 4026 -> 4026, collisions 0
+2013 : 4026 -> 4026, collisions 0
+
+1999 : 3998 -> 3998, collisions 26
+1999 : 3998 -> 3998, collisions 0
+1999 : 3998 -> 3998, collisions 4
+
+1995 : 3990 -> 3990, collisions 12
+1995 : 3990 -> 3990, collisions 0
+1995 : 3990 -> 3990, collisions 0
+
+1869 : 3738 -> 3738, collisions 2
+1869 : 3738 -> 3738, collisions 2
+1869 : 3738 -> 3738, collisions 4
+
+1778 : 3556 -> 3556, collisions 4
+1778 : 3556 -> 3556, collisions 6
+1778 : 3556 -> 3556, collisions 4
+
+1768 : 3536 -> 3536, collisions 0
+1768 : 3536 -> 3536, collisions 0
+1768 : 3536 -> 3536, collisions 0
+
+1716 : 3432 -> 3432, collisions 0
+1716 : 3432 -> 3432, collisions 0
+1716 : 3432 -> 3432, collisions 0
+
+1583 : 3166 -> 3166, collisions 74
+1583 : 3166 -> 3166, collisions 32
+1583 : 3166 -> 3166, collisions 22
+
+1549 : 3098 -> 3098, collisions 0
+1549 : 3098 -> 3098, collisions 0
+1549 : 3098 -> 3098, collisions 0
+
+1493 : 2986 -> 2986, collisions 0
+1493 : 2986 -> 2986, collisions 0
+1493 : 2986 -> 2986, collisions 0
+
+1478 : 2956 -> 2956, collisions 2
+1478 : 2956 -> 2956, collisions 0
+1478 : 2956 -> 2956, collisions 4
+
+1428 : 2856 -> 2856, collisions 0
+1428 : 2856 -> 2856, collisions 0
+1428 : 2856 -> 2856, collisions 0
+
+1390 : 2780 -> 2780, collisions 0
+1390 : 2780 -> 2780, collisions 0
+1390 : 2780 -> 2780, collisions 0
+
+1377 : 2754 -> 2754, collisions 4
+1377 : 2754 -> 2754, collisions 2
+1377 : 2754 -> 2754, collisions 4
+
+1349 : 2698 -> 2698, collisions 6
+1349 : 2698 -> 2698, collisions 2
+1349 : 2698 -> 2698, collisions 0
+
+1213 : 2426 -> 2426, collisions 0
+1213 : 2426 -> 2426, collisions 0
+1213 : 2426 -> 2426, collisions 0
+
+1165 : 2330 -> 2330, collisions 2
+1165 : 2330 -> 2330, collisions 2
+1165 : 2330 -> 2330, collisions 12
+
+1019 : 2038 -> 2038, collisions 2
+1019 : 2038 -> 2038, collisions 0
+1019 : 2038 -> 2038, collisions 0
+
+1000 : 2000 -> 2000, collisions 6
+1000 : 2000 -> 2000, collisions 2
+1000 : 2000 -> 2000, collisions 6
+
+985 : 1970 -> 1970, collisions 0
+985 : 1970 -> 1970, collisions 0
+985 : 1970 -> 1970, collisions 0
+
+974 : 1948 -> 1948, collisions 0
+974 : 1948 -> 1948, collisions 4
+974 : 1948 -> 1948, collisions 0
+
+905 : 1810 -> 1810, collisions 2
+905 : 1810 -> 1810, collisions 2
+905 : 1810 -> 1810, collisions 6
+
+740 : 1480 -> 1480, collisions 90
+740 : 1480 -> 1480, collisions 22
+740 : 1480 -> 1480, collisions 4
+
+686 : 1372 -> 1372, collisions 4
+686 : 1372 -> 1372, collisions 10
+686 : 1372 -> 1372, collisions 10
+
+634 : 1268 -> 1268, collisions 0
+634 : 1268 -> 1268, collisions 0
+634 : 1268 -> 1268, collisions 0
+
+531 : 1062 -> 1062, collisions 0
+531 : 1062 -> 1062, collisions 0
+531 : 1062 -> 1062, collisions 0
+
+496 : 992 -> 992, collisions 18
+496 : 992 -> 992, collisions 2
+496 : 992 -> 992, collisions 4
+
+466 : 932 -> 932, collisions 8
+466 : 932 -> 932, collisions 2
+466 : 932 -> 932, collisions 4
+
+448 : 896 -> 896, collisions 8
+448 : 896 -> 896, collisions 10
+448 : 896 -> 896, collisions 14
+
+418 : 836 -> 836, collisions 2
+418 : 836 -> 836, collisions 2
+418 : 836 -> 836, collisions 4
+
+303 : 606 -> 606, collisions 58
+303 : 606 -> 606, collisions 2
+303 : 606 -> 606, collisions 16
+
+297 : 594 -> 594, collisions 76
+297 : 594 -> 594, collisions 14
+297 : 594 -> 594, collisions 6
+
+137 : 274 -> 274, collisions 0
+137 : 274 -> 274, collisions 0
+137 : 274 -> 274, collisions 0
+
+111 : 222 -> 222, collisions 0
+111 : 222 -> 222, collisions 0
+111 : 222 -> 222, collisions 18
+
+Linear Probing 7356 Collisions
+Quadratic Probing 1440 Collisions
+Double hashing Probing 1686 Collisions
+
+*** Random Order End ***
+
+*** Accending Order Start ***
+
